@@ -59,6 +59,7 @@ $url1 = get( 'url1' );
 $url2 = get( 'url2' );
 
 ?>
+<!DOCTYPE html>
 <html>
 <head>
 <title>SVN Differ</title>
