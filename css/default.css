@@ -1,4 +1,8 @@
 
+.controls input {
+    width: 500px;
+}
+
 .code {
     background-color: #eee;
     margin: 0 0 10px 0;
